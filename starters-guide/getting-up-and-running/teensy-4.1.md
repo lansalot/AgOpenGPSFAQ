@@ -6,7 +6,7 @@ A good place to start your hunt is here: [https://www.pjrc.com/store/teensy41.ht
 
 Make sure the one you order has the chip highlighted in red - that's ethernet.
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 Also, you'll need some long 2mm pitch headers to solder to the board for it to reach to connector on your PCB.
 

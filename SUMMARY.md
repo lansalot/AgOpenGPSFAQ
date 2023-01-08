@@ -15,6 +15,7 @@
   * [Tablet](starters-guide/getting-up-and-running/tablet.md)
   * [The motor driver](starters-guide/getting-up-and-running/the-motor-driver.md)
   * [How to assemble the parts](starters-guide/getting-up-and-running/how-to-assemble-the-parts.md)
+  * [Other guides and resources](starters-guide/getting-up-and-running/other-guides-and-resources.md)
 
 ## 🤯 Frequently Asked Questions
 

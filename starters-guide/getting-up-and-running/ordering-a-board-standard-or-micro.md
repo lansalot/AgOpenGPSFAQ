@@ -32,7 +32,7 @@ Click Confirm when you're happy, and then add the BOM file and CPL file (they ar
 
 Now comes the fun part - it'll go and check with the JLCPCB inventory and see if any parts you need are missing. Here's a sample, it's likely yours will be different tho.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (2).png>)
 
 ![](<../../.gitbook/assets/image (20).png>)
 
