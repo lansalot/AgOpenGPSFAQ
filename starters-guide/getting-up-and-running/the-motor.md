@@ -1,6 +1,6 @@
-# The motor driver
+# The motor
 
-If you're going down the steering-wheel-motor route, the Phidgets is the one to buy:
+If you're going down the steering-wheel-motor route, the Phidgets is the one to buy. There are alternatives, but PotatoFarmer has made an excellent 3D-printed holder that fits it nicely (see below)
 
 {% embed url="https://www.phidgets.com/?tier=3&catid=19&pcid=16&prodid=993" %}
 
