@@ -2,10 +2,10 @@
 
 ## 🤓 Starters Guide
 
-* [Choosing an antenna](README.md)
-* [Getting up and running](<README (2).md>)
-  * [Which board - standard or micro?](starters-guide/getting-up-and-running/which-board-standard-or-micro.md)
-  * [GPS modules - standard or micro?](starters-guide/getting-up-and-running/gps-modules-standard-or-micro.md)
+* [Getting up and running](README.md)
+  * [Which board - standard or micro?](starters-guide/getting-up-and-running/which-board-standard-or-micro/README.md)
+  * [GPS modules - standard or micro?](starters-guide/getting-up-and-running/which-board-standard-or-micro/gps-modules-standard-or-micro.md)
+  * [Choosing an antenna](starters-guide/getting-up-and-running/choosing-an-antenna.md)
 * [How to assemble the parts](starters-guide/how-to-assemble-the-parts.md)
 
 ## 🤯 Frequently Asked Questions
