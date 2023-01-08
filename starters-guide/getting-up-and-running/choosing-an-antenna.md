@@ -1,6 +1,6 @@
 # Choosing an antenna
 
-While Ardusimple offer such things as "calibrated" antennas for survey, you don't really need them. You have a choice to either single or dual - and these antennas will work just fine.
+While Ardusimple offer such things as "calibrated" antennas for survey, you don't really need them. You have a choice to go either single, single with an IMU (we'll explain that later) or dual - and these antennas will work just fine.
 
 ![](<../../.gitbook/assets/image (2).png>)
 
