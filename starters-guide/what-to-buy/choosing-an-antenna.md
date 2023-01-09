@@ -6,4 +6,4 @@ While Ardusimple offer such things as "calibrated" antennas for survey, you don'
 
 {% embed url="https://www.ardusimple.com/product/ann-mb-00-ip67/" %}
 
-Being not-bright-green-and-yellow, they hide on the roof of your machine really well. And they're that cheap, they're not even worth stealing.
+Being not-bright-green-and-yellow, they hide on the roof of your machine really well. And they're that cheap, they're not even worth stealing. Can't quite say the same about your FireStarters, eh...!

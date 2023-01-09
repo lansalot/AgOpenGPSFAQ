@@ -1,4 +1,4 @@
-# Ordering a board - standard or micro?
+# Choosing and ordering a board - standard or micro?
 
 AgOpenGPS boards come in two flavours - Standard or Micro. Functionally, they are the same - they only differ in size. Whether you want single-GPS or dual, either board is fine; and you can simply add another GPS module at a later date if you so wish, no need for another board.
 
