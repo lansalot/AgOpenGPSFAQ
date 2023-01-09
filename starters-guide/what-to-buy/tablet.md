@@ -19,3 +19,5 @@ Models of note:
 Models to STAY AWAY FROM
 
 * FZ-A1 (android, no use!)
+
+TODO: crossover cables for ethernet

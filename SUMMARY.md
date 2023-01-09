@@ -19,7 +19,6 @@
   * [The motor](starters-guide/what-to-buy/the-motor.md)
   * [Motor? Nah - hydraulic please!](starters-guide/what-to-buy/motor-nah-hydraulic-please.md)
   * [Motor/hyd? Nah.. CANbus please!](starters-guide/what-to-buy/motor-hyd-nah..-canbus-please.md)
-  * [How to assemble the parts](starters-guide/what-to-buy/how-to-assemble-the-parts.md)
   * [Other guides and resources](starters-guide/what-to-buy/other-guides-and-resources.md)
 
 ## 💪 Putting it all together
